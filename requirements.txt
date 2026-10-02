@@ -1,0 +1,8 @@
+streamlit
+openai
+pypdf
+reportlab
+python-dotenv
+python-bidi
+crewai
+
