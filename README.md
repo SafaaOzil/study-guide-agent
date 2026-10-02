@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Study Guide Agent
 
 Study Guide Agent is an AI-based application that helps students study from uploaded course materials.
@@ -118,6 +117,4 @@ streamlit run app.py
 Output
 The generated study guide is saved as:
 output/study_guide.pdf
-=======
-# study-guide-agent
->>>>>>> 0dd991ff55b857ab238b477078d9ed59407547b7
+
